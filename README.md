@@ -1,4 +1,4 @@
-![logo](https://github.com/monisharmaofficial/monisharmaofficial/blob/main/hey!%20I%E2%80%99m%20Monika%20Sharma.png)
+
 <h1 align="center">Hi 👋, I'm Monika Sharma</h1>
 <h3 align="center">frontend Developer, Passionate About Modern Web Technologies and Focused on Frontend Excellence</h3>
 
